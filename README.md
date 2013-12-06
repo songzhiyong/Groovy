@@ -1,3 +1,3 @@
 #Groovy Study
-bbaabb
+
 cccc
