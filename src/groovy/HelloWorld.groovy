@@ -2,7 +2,7 @@ package groovy
 
 class HelloWorld {
 	static void main(args) {
-		def var = "song";
+		def var = "szy";
 		println "hello world,"+var;
 	}
 }
